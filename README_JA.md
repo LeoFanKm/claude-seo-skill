@@ -18,6 +18,8 @@
 
 [**ランディングページ**](https://clawpond.com/seo-skill) · [**ブログ記事**](https://clawpond.com/blog/claude-seo-skill-suite-25-in-1) · [**中文文档**](README_CN.md)
 
+![Claude SEO Skill Suite: The 25-in-1 Toolkit Adventure](claude-seo-skill-suite-25in1-comic.jpg)
+
 </div>
 
 ---

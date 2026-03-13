@@ -16,6 +16,8 @@
 
 [**🌐 落地页**](https://clawpond.com/seo-skill) · [**📝 博客文章**](https://clawpond.com/blog/claude-seo-skill-suite-25-in-1) · [**English**](README.md)
 
+![Claude SEO Skill Suite: 25 合 1 全链路工具箱冒险](claude-seo-skill-suite-25in1-comic.jpg)
+
 </div>
 
 ---

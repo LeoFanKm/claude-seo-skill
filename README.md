@@ -18,6 +18,8 @@ keyword research · content · technical audit · GEO/AI Overview · backlinks �
 
 [**🌐 Landing Page**](https://clawpond.com/seo-skill) · [**📝 Blog Post**](https://clawpond.com/blog/claude-seo-skill-suite-25-in-1) · [**中文**](README_CN.md) · [**日本語**](README_JA.md) · [**한국어**](README_KR.md)
 
+![Claude SEO Skill Suite: The 25-in-1 Toolkit Adventure](claude-seo-skill-suite-25in1-comic.jpg)
+
 </div>
 
 ---

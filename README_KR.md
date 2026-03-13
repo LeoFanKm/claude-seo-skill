@@ -18,6 +18,8 @@
 
 [**랜딩 페이지**](https://clawpond.com/seo-skill) · [**블로그 포스트**](https://clawpond.com/blog/claude-seo-skill-suite-25-in-1) · [**中文文档**](README_CN.md)
 
+![Claude SEO Skill Suite: The 25-in-1 Toolkit Adventure](claude-seo-skill-suite-25in1-comic.jpg)
+
 </div>
 
 ---
