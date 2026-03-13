@@ -4,9 +4,11 @@
 
 <div align="center">
 
-**25 个 Claude 技能，SEO 全链路自动化**
+**25 合 1 — 目前最全的 Claude SEO 技能套装**
 
 关键词研究 · 内容生产 · 技术审计 · GEO/AI Overview · 外链 · 排名监控
+
+*其他 Claude SEO 技能只覆盖 1-3 个环节，这套全部覆盖。*
 
 [![GitHub Stars](https://img.shields.io/github/stars/leofankm/claude-seo-skill?style=flat-square&logo=github&color=2563eb)](https://github.com/leofankm/claude-seo-skill/stargazers)
 [![版本](https://img.shields.io/badge/版本-4.0.0-2563eb?style=flat-square)](https://github.com/leofankm/claude-seo-skill/releases)
@@ -18,17 +20,19 @@
 
 ---
 
-## 核心问题
+## 为什么是 25 合 1？
 
-SEO 工具链是碎片化的。
+市面上的 Claude SEO 技能（或 GPTs）通常只做**一件事**——只做关键词，或只做审计，或只做内容。你仍然需要 5-7 个工具才能覆盖完整的 SEO 工作流。
 
-关键词工具不认识你的审计结果。内容策略不知道你的外链缺口。排名追踪器不知道你的 GEO 状态。
+**这套套装替代所有这些。** 25 个专项技能，一个统一的 Claude 上下文：
 
-更严重的是：**AI Overview 正在占据搜索结果首屏，传统 SEO 流量平均下降 34-46%**，但大多数 SEO 工具还没有认真对待这件事。
+- 关键词研究 → 内容简报 → 技术审计 → GEO 优化 → 外链分析 → 排名监控
+- **内置 GEO / AI Overview 优化**（其他 Claude SEO 技能没有这个能力）
+- Princeton KDD 2024 学术研究支撑的 GEO 策略
+- 80 条规则的全站审计
+- 兼容 Claude Code、OpenClaw、Cursor、Kiro
 
-## 解决方案
-
-一个统一的 Claude 对话上下文 + 25 个专项技能 = SEO 全流程，终于可以真正串联。
+> **其他 SEO 工具还在无视 AI Overview** — 而 Google AI Overview 已经让传统 SEO 流量下降 34-46%。这是唯一认真对待 GEO 的技能套装。
 
 ---
 

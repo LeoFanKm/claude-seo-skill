@@ -4,9 +4,11 @@
 
 <div align="center">
 
-**SEO を完全自動化する 25 の Claude スキル**
+**25-in-1 — 現時点で最も包括的な Claude SEO スキルスイート**
 
 キーワード調査 · コンテンツ · テクニカル監査 · GEO/AI Overview · 被リンク · 順位トラッキング
+
+*他の Claude SEO スキルがカバーするのは 1〜3 領域。このスイートは全領域をカバーします。*
 
 [![GitHub Stars](https://img.shields.io/github/stars/leofankm/claude-seo-skill?style=flat-square&logo=github&color=2563eb)](https://github.com/leofankm/claude-seo-skill/stargazers)
 [![Version](https://img.shields.io/badge/version-4.0.0-2563eb?style=flat-square)](https://github.com/leofankm/claude-seo-skill/releases)
@@ -20,17 +22,19 @@
 
 ---
 
-## 課題
+## なぜ 25-in-1 なのか？
 
-SEO ワークフローは**サイロ化**しています。
+市販の Claude SEO スキル（や GPTs）は、通常**一つのこと**しかできません — キーワード調査だけ、コンテンツ監査だけ、テクニカルチェックだけ。完全な SEO ワークフローをカバーするには、5〜7 個のツールが必要です。
 
-キーワードツールとコンテンツツールは連携せず、監査ツールはコンテンツ戦略を知らず、順位トラッカーは GEO の状況を把握していません。
+**このスイートがすべてを置き換えます。** 25 の専門スキル、一つの統合された Claude コンテキスト：
 
-さらに深刻なのは、**AI Overview への最適化に取り組んでいる人がほとんどいない**ことです — Google AI Overview はすでに従来の SEO トラフィックを 34〜46% 減少させています。
+- キーワード調査 → コンテンツブリーフ → テクニカル監査 → GEO 最適化 → 被リンク分析 → 順位モニタリング
+- **GEO / AI Overview 最適化を内蔵**（他の Claude SEO スキルにはありません）
+- Princeton KDD 2024 の学術研究に裏打ちされた GEO 戦略
+- 80 ルールの包括的サイト監査
+- Claude Code、OpenClaw、Cursor、Kiro に対応
 
-## 解決策
-
-一つの統合された Claude コンテキスト。25 の専門スキル。SEO ワークフロー全体が、ようやく繋がります。
+> **他の SEO ツールはまだ AI Overview を無視しています** — Google AI Overview が従来の SEO トラフィックを 34〜46% 減少させているにもかかわらず。GEO を真剣に扱っている唯一のスキルスイートです。
 
 ```
 Keywords → Content Brief → Technical Audit → GEO/AI Overview → Backlinks → Monitoring
@@ -77,11 +81,11 @@ seo-data-tools seo-schema    seo-hreflang       seo-page                      se
 
 ---
 
-## GEO / AI Overview（ゲームチェンジャー）
+## GEO / AI Overview — 他にはない機能
 
-> **Google AI Overview が検索結果の最上部を占拠。従来の SEO トラフィックは 34〜46% 減少しています。**
+> **Google AI Overview が検索結果の最上部を占拠。従来の SEO トラフィックは 34〜46% 減少しています。** ほとんどの SEO ツールはこの現実から目を逸らしています。
 
-体系的な GEO 対応を備えた、唯一の Claude スキルスイートです。学術研究に裏打ちされています。
+体系的な GEO 対応を備えた**唯一の** Claude スキルスイートです。査読済み学術研究に裏打ちされています。
 
 **Princeton 大学 KDD 2024 — 9 つの GEO 最適化戦略**（Aggarwal et al.）:
 

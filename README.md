@@ -4,9 +4,11 @@
 
 <div align="center">
 
-**25 Claude skills for complete SEO automation**
+**25-in-1 — The most comprehensive Claude SEO skill suite available**
 
 keyword research · content · technical audit · GEO/AI Overview · backlinks · rank tracking
+
+*Other Claude SEO skills cover 1-3 areas. This covers all of them.*
 
 [![GitHub Stars](https://img.shields.io/github/stars/leofankm/claude-seo-skill?style=flat-square&logo=github&color=2563eb)](https://github.com/leofankm/claude-seo-skill/stargazers)
 [![Version](https://img.shields.io/badge/version-4.0.0-2563eb?style=flat-square)](https://github.com/leofankm/claude-seo-skill/releases)
@@ -20,17 +22,19 @@ keyword research · content · technical audit · GEO/AI Overview · backlinks �
 
 ---
 
-## The Problem
+## Why 25-in-1?
 
-SEO workflows are **broken into silos**.
+Most Claude SEO skills (and GPTs) do **one thing** — keyword research OR content audit OR technical check. You still need 5-7 tools to cover the full SEO workflow.
 
-Your keyword tool doesn't talk to your content tool. Your audit tool doesn't know your content strategy. Your rank tracker doesn't know your GEO status.
+**This suite replaces all of them.** 25 specialized skills, one unified Claude context:
 
-Worse: **nobody's optimizing for AI Overview yet** — while Google AI Overview is already reducing traditional SEO traffic by 34–46%.
+- Keyword research → Content brief → Technical audit → GEO optimization → Backlink analysis → Rank monitoring
+- **GEO / AI Overview optimization included** (no other Claude SEO skill has this)
+- Princeton KDD 2024 research-backed GEO strategies
+- 80-rule comprehensive site audit
+- Works with Claude Code, OpenClaw, Cursor, and Kiro
 
-## The Solution
-
-One unified Claude context. 25 specialized skills. The entire SEO workflow, finally connected.
+> **Other SEO tools are still ignoring AI Overview** — while Google AI Overview is already reducing traditional SEO traffic by 34–46%. This is the only skill suite that takes GEO seriously.
 
 ```
 Keywords → Content Brief → Technical Audit → GEO/AI Overview → Backlinks → Monitoring
@@ -77,11 +81,11 @@ seo-data-tools seo-schema    seo-hreflang       seo-page                      se
 
 ---
 
-## GEO / AI Overview (the Game Changer)
+## GEO / AI Overview — What Others Don't Have
 
-> **Google AI Overview now occupies the top of search results. Traditional SEO traffic is down 34–46%.**
+> **Google AI Overview now occupies the top of search results. Traditional SEO traffic is down 34–46%.** Most SEO tools pretend this isn't happening.
 
-This is the only Claude skill suite with systematic GEO coverage, backed by academic research.
+This is the **only** Claude skill suite with systematic GEO coverage, backed by peer-reviewed academic research.
 
 **Princeton University KDD 2024 — 9 GEO Optimization Strategies** (Aggarwal et al.):
 

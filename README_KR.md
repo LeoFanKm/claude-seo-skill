@@ -4,9 +4,11 @@
 
 <div align="center">
 
-**SEO 자동화를 위한 25개 Claude 스킬 모음**
+**25-in-1 — 현재 가장 포괄적인 Claude SEO 스킬 모음**
 
 키워드 리서치 · 콘텐츠 · 기술 감사 · GEO/AI Overview · 백링크 · 순위 추적
+
+*다른 Claude SEO 스킬은 1~3개 영역만 커버합니다. 이 모음은 전체를 커버합니다.*
 
 [![GitHub Stars](https://img.shields.io/github/stars/leofankm/claude-seo-skill?style=flat-square&logo=github&color=2563eb)](https://github.com/leofankm/claude-seo-skill/stargazers)
 [![Version](https://img.shields.io/badge/version-4.0.0-2563eb?style=flat-square)](https://github.com/leofankm/claude-seo-skill/releases)
@@ -20,17 +22,19 @@
 
 ---
 
-## 문제점
+## 왜 25-in-1인가?
 
-SEO 워크플로우는 **도구마다 따로 놀고 있습니다.**
+시중의 Claude SEO 스킬(또는 GPTs)은 보통 **한 가지만** 합니다 — 키워드 리서치만, 콘텐츠 감사만, 기술 점검만. 전체 SEO 워크플로우를 커버하려면 여전히 5~7개 도구가 필요합니다.
 
-키워드 도구와 콘텐츠 도구가 연동되지 않습니다. 감사 도구는 콘텐츠 전략을 모릅니다. 순위 추적기는 GEO 현황을 파악하지 못합니다.
+**이 모음이 모두 대체합니다.** 25개 전문 스킬, 하나의 통합된 Claude 컨텍스트:
 
-더 심각한 문제: **아직 AI Overview 최적화에 대응하는 곳이 거의 없습니다** — 이미 Google AI Overview가 기존 SEO 트래픽을 34~46% 감소시키고 있는데도 말입니다.
+- 키워드 리서치 → 콘텐츠 브리프 → 기술 감사 → GEO 최적화 → 백링크 분석 → 순위 모니터링
+- **GEO / AI Overview 최적화 내장** (다른 Claude SEO 스킬에는 없습니다)
+- Princeton KDD 2024 학술 연구 기반의 GEO 전략
+- 80개 규칙의 종합 사이트 감사
+- Claude Code, OpenClaw, Cursor, Kiro 지원
 
-## 해결책
-
-하나의 통합된 Claude 컨텍스트. 25개의 전문 스킬. 드디어 하나로 연결된 SEO 워크플로우.
+> **다른 SEO 도구들은 여전히 AI Overview를 무시하고 있습니다** — Google AI Overview가 이미 기존 SEO 트래픽을 34~46% 감소시키고 있는데도. GEO를 진지하게 다루는 유일한 스킬 모음입니다.
 
 ```
 Keywords → Content Brief → Technical Audit → GEO/AI Overview → Backlinks → Monitoring
@@ -77,11 +81,11 @@ seo-data-tools seo-schema    seo-hreflang       seo-page                      se
 
 ---
 
-## GEO / AI Overview (게임 체인저)
+## GEO / AI Overview — 다른 곳에는 없는 기능
 
-> **Google AI Overview가 검색 결과 최상단을 차지하고 있습니다. 기존 SEO 트래픽은 34~46% 감소했습니다.**
+> **Google AI Overview가 검색 결과 최상단을 차지하고 있습니다. 기존 SEO 트래픽은 34~46% 감소했습니다.** 대부분의 SEO 도구는 이 현실을 외면하고 있습니다.
 
-체계적인 GEO 대응을 갖춘 유일한 Claude 스킬 모음이며, 학술 연구에 기반합니다.
+체계적인 GEO 대응을 갖춘 **유일한** Claude 스킬 모음이며, 동료 심사를 거친 학술 연구에 기반합니다.
 
 **Princeton University KDD 2024 — 9가지 GEO 최적화 전략** (Aggarwal et al.):
 
