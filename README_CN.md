@@ -1,5 +1,7 @@
 # 🔍 claude-seo-skill（中文文档）
 
+> [English](README.md) | **中文** | [日本語](README_JA.md) | [한국어](README_KR.md)
+
 <div align="center">
 
 **25 个 Claude 技能，SEO 全链路自动化**
@@ -10,7 +12,7 @@
 [![版本](https://img.shields.io/badge/版本-4.0.0-2563eb?style=flat-square)](https://github.com/leofankm/claude-seo-skill/releases)
 [![License](https://img.shields.io/badge/协议-MIT-22c55e?style=flat-square)](LICENSE)
 
-[**落地页**](https://clawpond.com/seo-skill) · [**博客文章**](https://clawpond.com/blog/claude-seo-skill-suite-25-in-1) · [**English README**](README.md)
+[**🌐 落地页**](https://clawpond.com/seo-skill) · [**📝 博客文章**](https://clawpond.com/blog/claude-seo-skill-suite-25-in-1) · [**English**](README.md)
 
 </div>
 

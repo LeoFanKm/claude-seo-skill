@@ -1,5 +1,7 @@
 # 🔍 claude-seo-skill
 
+> **[English](README.md)** | [中文](README_CN.md) | [日本語](README_JA.md) | [한국어](README_KR.md)
+
 <div align="center">
 
 **25 Claude skills for complete SEO automation**
@@ -12,7 +14,7 @@ keyword research · content · technical audit · GEO/AI Overview · backlinks �
 [![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-9333ea?style=flat-square)](https://claude.ai/code)
 [![Works With](https://img.shields.io/badge/works_with-OpenClaw_·_Cursor_·_Kiro-f59e0b?style=flat-square)](#platforms)
 
-[**Landing Page**](https://clawpond.com/seo-skill) · [**Blog Post**](https://clawpond.com/blog/claude-seo-skill-suite-25-in-1) · [**中文文档**](README_CN.md)
+[**🌐 Landing Page**](https://clawpond.com/seo-skill) · [**📝 Blog Post**](https://clawpond.com/blog/claude-seo-skill-suite-25-in-1) · [**中文**](README_CN.md) · [**日本語**](README_JA.md) · [**한국어**](README_KR.md)
 
 </div>
 
