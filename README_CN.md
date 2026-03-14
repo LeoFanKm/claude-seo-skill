@@ -114,6 +114,14 @@ curl -sSL https://raw.githubusercontent.com/leofankm/claude-seo-skill/main/insta
 
 ---
 
+## 实际运行效果
+
+![SEO 技能套装在 Claude Code 中运行截图 — /seo audit 产出 18 项审计任务清单](https://clawpond.com/images/blog/seo-skill-audit-demo.png)
+
+*运行 `/seo audit` 后，Claude 自动创建 18 项审计任务（技术审计、Schema、Sitemap、CWV、内容质量等）并逐一执行。*
+
+---
+
 ## 快速开始
 
 ```bash

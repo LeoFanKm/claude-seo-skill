@@ -146,6 +146,12 @@ curl -sSL https://raw.githubusercontent.com/leofankm/claude-seo-skill/main/insta
 
 ## Usage
 
+### What it looks like in action
+
+![SEO Skill Suite running in Claude Code — /seo audit generates an 18-item audit task checklist](https://clawpond.com/images/blog/seo-skill-audit-demo.png)
+
+*Running `/seo audit` — Claude automatically creates and executes 18 audit tasks covering technical SEO, Schema, Sitemap, Core Web Vitals, content quality, and more.*
+
 ### First run (recommended sequence)
 ```bash
 # 1. Full site health check — understand your baseline in 10 minutes
